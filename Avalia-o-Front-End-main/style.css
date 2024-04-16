@@ -1,0 +1,35 @@
+*{
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+
+}
+
+.Cabecalho {
+background-image: url(investimento.png); 
+padding: 90px;
+text-align: center;
+font-size: 40px;
+color: #FDF9F0;
+display: flexbox;
+}
+header h2 {
+margin-top: 20px;
+text-align: center;
+}
+main nav ul li{
+background-color: #FDF9F0;
+font-size: 40px;
+}
+
+header h3 {
+margin-top: 50px;
+text-align: center;
+background-color: hidden;
+}
+
+body{
+background-image: url(investimento.png);
+
+}
+
